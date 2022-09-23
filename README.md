@@ -1,6 +1,6 @@
 # Simon-Game
 A fun project for in depth understanding of jquery.
-###check out the game here: https://iamjaseem.github.io/Simon-Game-/
+### check out the game here: https://iamjaseem.github.io/Simon-Game-/
 # How it Works
 - object of the game is to repeat a series of random tile clicks created by the game.
 - After each round, the sequence becomes progressively longer and more complex which makes it harder to remember.
