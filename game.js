@@ -71,8 +71,7 @@ function animatePress(currentColor){
 //checking answers
 function checkAnwser(currentLevel){
   // checking the userclickedpattern at current level to game pattern at current level.
-  console.log("userclciked= "+ userClickedPattern[currentLevel]);
-    console.log("gamepattern= "+ gamePattern[currentLevel]);
+  
   if(userClickedPattern[currentLevel]===gamePattern[currentLevel]){
     console.log("success");
     //checking if both the lenght matches. and if its true then calling the next sequence after 1000ms
